@@ -1,4 +1,4 @@
-# example
+# example for first change poll
 
 Example Maven project generated using `maven-archetype-quickstart`
 
